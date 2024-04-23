@@ -1,4 +1,4 @@
-# Evaluating-Promotional-Impact : A-Data-Analysis-of-Gameflix-s-Subscriber-Engagement-Strategies
+# Evaluating Promotional Impact : Data Analysis of Gameflix's Subscriber Engagement Strategies
 
 ## Problem Statement
 This project aims to dissect and assess the effectiveness of Gameflix’s varied promotional tactics in the Indian market, focusing on their influence on subscriber engagement, merchandise sales, and viewership trends.
