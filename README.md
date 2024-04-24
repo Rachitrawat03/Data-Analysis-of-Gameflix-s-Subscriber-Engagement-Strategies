@@ -23,7 +23,7 @@ The project aims to dissect and assess the effectiveness of Gameflix’s varied 
 
 ### Engagement Analysis:
 - **Month with Highest Opt-ins**: November has the highest number of promo plan opt-ins.
-- **Average Viewership per User**: JIO ranks second in average viewership per user.
+- **Average Viewership per Promo Plan**: JIO ranks second in average viewership per user.
 
 ### Badge Receipt Analysis:
 - **Month with Minimum Badges Received**: November has the minimum number of badges received.
