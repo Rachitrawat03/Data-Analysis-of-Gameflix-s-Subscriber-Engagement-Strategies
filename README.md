@@ -1,41 +1,32 @@
 # Data Analysis of Gameflix's Subscriber Engagement Strategies
 
+## Overview
+This repository contains the analysis and findings from a data analysis project focused on evaluating the effectiveness of Gameflix's promotional strategies in the Indian market. The project aims to provide insights into subscriber engagement, merchandise sales, and viewership trends to aid in decision-making and optimization of future marketing efforts.
+
 ## Problem Statement
-This project aims to dissect and assess the effectiveness of Gameflix’s varied promotional tactics in the Indian market, focusing on their influence on subscriber engagement, merchandise sales, and viewership trends.
+The project aims to dissect and assess the effectiveness of Gameflix’s varied promotional tactics in the Indian market, focusing on their influence on subscriber engagement, merchandise sales, and viewership trends.
 
-## Introduction
-Gameflix, a sports-centric OTT platform specializing in live sports broadcasts, has launched a promotional campaign targeting the Indian market. Offering access to diverse sporting events through subscription plans, Gameflix aims to enhance subscriber engagement through promotional offers and strategic partnerships. This project endeavors to evaluate the impact of these promotional strategies on subscriber engagement, merchandise sales, and viewership.
+## Approach
+1. **Understanding the Data**: Thoroughly understand the provided data tables and schema, review data definitions, assess data quality, and comprehend relationships between variables.
+2. **Data Transformations**: Convert raw data into user-centric granularity by extracting, processing, and organizing data. Join tables with promo_metric data to accurately analyze activities during the promo plan period.
+3. **Creating Story with Data Visualization Techniques**: Utilize Power BI to create a dashboard addressing leadership concerns and deriving actionable insights from the data.
 
-## Approach to the Problem
-### 1. Understand the Data
-Before diving into analysis, it’s essential to thoroughly understand the data tables and schema provided in the project. Review data definitions, assess data quality, and comprehend relationships between variables.
+## Key Insights
+### Promo Effectiveness Assessment:
+- **Conversion Percentage**: FANDUEL SOS has the highest conversion rate.
+- **Revenue per User in Merchandise**: The promo plan 2K23C ranks second in revenue per user.
+- **Engagement and Behavior Analysis**: The promo plan 2K23C ranks second in engagement.
 
-### 2. Data Transformations
-Converting raw data into user-centric granularity involves extracting, processing, and organizing data from tables like raw_engagement, raw_viewership, and raw_merchandise. This transformation includes joining tables with promo_metric data using user_id as a reference point to accurately analyze activities during the promo plan period.
+### User Acquisition and Demographics:
+- **New User Acquisition**: FANDUEL SOS attracts the highest number of new users.
+- **Preferences Among Female Users**: FANDUEL SOS is more popular among female users.
 
-**What constitutes the Promo Plan Period?**
-The Promo Plan Period is defined as the duration between the Redemption Date and Active_to Date specified by Gameflix India Pvt Ltd, during which user engagements are considered.
+### Engagement Analysis:
+- **Month with Highest Opt-ins**: November has the highest number of promo plan opt-ins.
+- **Average Viewership per User**: JIO ranks second in average viewership per user.
 
-### 3. Creating Story with Data Visualization Techniques
-Once data transformation is complete, the focus shifts to creating a Power BI dashboard to address concerns raised by the leadership team.
-
-#### Key Concerns of Leadership:
-1. **Promo Effectiveness Assessment:**
-   - Evaluate the effectiveness of each promo plan based on conversion percentage to identify the plan with the highest conversion rate.
-   - Identify the promo plan with the second highest revenue per user in merchandise.
-   
-2. **Engagement and Behavior Analysis:**
-   - Determine the month with the highest number of promo plan opt-ins to understand user engagement.
-   - Identify the promo plan with the second highest average viewership per user.
-   
-3. **User Acquisition and Demographics:**
-   - Quantify which promo plan attracts the highest number of new users/subscribers and analyze their demographics.
-   - Identify the promo plan more popular among females.
-   
-4. **Month with Minimum Number of Badges Received:**
-   - Identify the month with the minimum number of badges received.
-
-By applying analytics techniques such as segmentation, calculation, and comparison, actionable insights will be derived from the data using visualization techniques.
+### Badge Receipt Analysis:
+- **Month with Minimum Badges Received**: November has the minimum number of badges received.
 
 ## Conclusion
-This project aims to provide Gameflix with valuable insights into the effectiveness of its promotional strategies, allowing for informed decision-making and optimization of future marketing efforts in the Indian market. Through comprehensive data analysis and visualization, this evaluation seeks to uncover opportunities for enhancing subscriber engagement, increasing merchandise sales, and maximizing viewership trends.
+The analysis provides valuable insights into the effectiveness of Gameflix's promotional strategies, allowing for informed decision-making and optimization of future marketing efforts in the Indian market. Through comprehensive data analysis and visualization, opportunities for enhancing subscriber engagement, increasing merchandise sales, and maximizing viewership trends are uncovered.
